@@ -1,0 +1,5 @@
+
+Tras intentar descargar los datos con el enlace de Amazon y ver que no funcionaba, opté por cargar los archivos de Google Drive en S3. 
+Aunque la subida de archivos se realizó sin problemas, noté que los resultados variaban ligeramente tanto en el tamaño del conjunto de datos como en el 
+resultado obtenido. En vista de esto, decidí experimentar con el conjunto de datos original "electronics" (que se descargaba desde el enlace) proporcionado 
+por un compañero. Fue con este conjunto de datos que finalmente logré obtener tamaños iguales en los resultados.
